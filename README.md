@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I am a passionate and dynamic professional with ex
 **Location:** Srivilliputtur, Tamil Nadu, India  
 **Position Grade:** Junior Research Fellow (DST Funded Project)
 
-As a Junior Research Fellow (JRF), I am actively involved in groundbreaking research in [specify the area of research]. This role involves collaborating with a team of experts, contributing to publications, and working on high-impact projects aimed at solving industry-specific challenges.
+As a Junior Research Fellow (JRF), I am actively involved in groundbreaking research in data analytics. This role involves collaborating with a team of experts, contributing to publications, and working on high-impact projects aimed at solving industry-specific challenges.
 
 ### Responsibilities:
-- Conduct independent research in [research area].
+- Conduct independent research in data analytics.
 - Assist in designing, developing, and testing innovative solutions.
 - Contribute to academic papers and project reports.
 - Participate in team discussions, presentations, and project milestones.
@@ -58,7 +58,4 @@ At Getinz, I worked as a Technical Recruiter, helping clients with both retained
 
 ---
 
-## 📬 Contact Information
 
-Feel free to reach out for collaborations, job opportunities, or any inquiries:
-- 📧 Email: [
